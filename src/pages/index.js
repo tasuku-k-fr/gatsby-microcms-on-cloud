@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Hi people. this page is test</h1>
+    <h1>Hi people. this page is test. And Preview cache confirmation.</h1>
     <p>
       Do genetate preview by pull request?
     </p>
